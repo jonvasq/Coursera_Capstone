@@ -38,6 +38,19 @@ https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitu
 
 The data contains:
 
-Zip  ,  City  ,    State\n Timezone , Daylight savings time flag , Latitude,  Longitude
+Zip                            28214
 
-28214 , Charlotte NC  ,  -5     ,   1                          , 35.276639 ,-80.96111
+City                           Charlotte
+
+State                          NC
+
+Timezone                       -5
+
+Daylight savings time flag     1
+
+Latitude                       35.276639
+
+Longitude                     -80.96111
+
+
+I will then use these 77 points as centroids to search for the needed criteria
