@@ -39,4 +39,5 @@ https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitu
 The data contains:
 
 Zip    City      State Timezone  Daylight savings time flag  Latitude  Longitude
+
 28214  Charlotte NC    -5        1                           35.276639 -80.96111
